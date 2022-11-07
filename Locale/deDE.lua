@@ -2,7 +2,7 @@
 
     TacoTip Localization: deDE
 
-    Translators: 
+    Translators: shakimas
 
 --]]
 
@@ -61,6 +61,12 @@ if (GetLocale() ~= "deDE") then return
     ["Display item level in the tooltip for certain items."] = "Zeige das Itemlevel im Tooltip für bestimmte Items an.",
     ["Show Item GearScore"] = "Zeige Item GearScore an",
     ["Show GearScore in item tooltips"] = "Zeige GearScore in Item-Tooltips an"
+    ["Enhanced Tooltips"] = "Erweiterte Tooltips",
+    ["Disable In Combat"] = "Im Kampf ausschalten",
+    ["Disable gearscore & talents in combat"] = "Schalte Gearscore & Talente im Kampf aus",
+    ["Chat Class Colors"] = "Chat Klassenfarben",
+    ["Color names by class in chat windows"] = "Namen im Chatfenster mit den Klassenfarben einfärben",
+    ["Instant Fade"] = "Sofortiges Verblassen",
 
 
 
